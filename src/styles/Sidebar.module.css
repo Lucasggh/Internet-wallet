@@ -1,0 +1,20 @@
+.sidebar{
+    width: 250px;
+    background-color:#00254e;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    padding-top:20px ;
+    align-items: flex-start;
+    padding-left: 40px;
+}
+h1{
+    margin-bottom: 200px;
+    color: #0090fa;
+}
+
+.button:last-child{
+    margin-top: auto;
+    margin-bottom: 20px;
+}
