@@ -1,4 +1,6 @@
 # Internet wallet
 
-Internet wallet é um projeto para nota pratica da materia de desenvolvimento do meu curso do senai.
+Internet wallet é um projeto para nota prática da materia de desenvolvimento do meu curso do senai.
 ele se baseia em uma carteira digital/internet Banking
+
+## internet-wallet.vercel.app
