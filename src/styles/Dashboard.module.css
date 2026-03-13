@@ -1,0 +1,41 @@
+.cardContainer{
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 90%;
+    height: 250px;
+    border-bottom: 3px solid #6161614f;
+    gap: 30px;
+    padding-left: 50px;
+}
+.mainContainer{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+}
+.transactions{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    flex: 1;
+    padding-left: 50px;
+}
+
+.transactionHistory{
+    width: 600px;
+    height: 400px;
+    background-color: blue;
+    margin-right: 70px;
+}
+.graphCont{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+    align-items: center;
+}
+.tittle{
+    font-size: 30px;
+}
